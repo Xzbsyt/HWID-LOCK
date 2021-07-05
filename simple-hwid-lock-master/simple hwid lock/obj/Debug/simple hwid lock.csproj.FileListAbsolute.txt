@@ -1,0 +1,9 @@
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\bin\Debug\simple hwid lock.exe.config
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\bin\Debug\simple hwid lock.exe
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\bin\Debug\simple hwid lock.pdb
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple_hwid_lock.Form1.resources
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple_hwid_lock.Properties.Resources.resources
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple hwid lock.csproj.GenerateResource.cache
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple hwid lock.csproj.CoreCompileInputs.cache
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple hwid lock.exe
+C:\Users\isaia\Desktop\simple-hwid-lock-master\simple hwid lock\obj\Debug\simple hwid lock.pdb
